@@ -1,5 +1,11 @@
 # GitHub Repository User Guide
 
+A beginner-friendly technical documentation project explaining how to create and manage a GitHub repository. This guide includes step-by-step instructions, screenshots, and troubleshooting tips.
+
+## Getting Started
+
+Read the full guide: [Getting Started](getting-started.md).
+
 ## Overview
 
 This guide explains how to create a GitHub repository, add files, make changes, and publish those changes to GitHub.
