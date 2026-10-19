@@ -29,6 +29,11 @@ Sign in to your GitHub account.
 5. Select **Public**.
 6. Select **Add a README file**.
 
+![GitHub New Repository screen](create-repository.png)
+
+*The GitHub New Repository screen where you enter your repository information.*
+
+
 > **Tip:** A clear repository name makes it easier for you and others to understand what the project contains.
 
 ### 3. Create the Repository
