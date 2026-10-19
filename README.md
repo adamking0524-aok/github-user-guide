@@ -66,3 +66,19 @@ Make sure you are signed in to the correct GitHub account. You can view your rep
 ## Conclusion
 
 You have now created a GitHub repository and learned the basic steps for adding files and recording changes.
+
+## Skills Demonstrated
+
+- Technical writing and step-by-step instructions
+- Organizing information with Markdown
+- Creating and incorporating screenshots
+- Writing troubleshooting guidance for beginners
+
+## Tools Used
+
+- GitHub
+- Markdown
+
+## About This Project
+
+This is a technical-writing portfolio sample created to demonstrate my ability to explain software processes clearly to beginners.
