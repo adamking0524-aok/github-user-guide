@@ -33,9 +33,8 @@ Sign in to your GitHub account.
 
 *The GitHub New Repository screen where you enter your repository information.*
 
-![GitHub New Repository screen](create-repository(2).png)
+![GitHub repository creation screen](create-repository (2).png)
 
-*The GitHub New Repository screen where you enter your repository information.*
 
 
 > **Tip:** A clear repository name makes it easier for you and others to understand what the project contains.
